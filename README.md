@@ -1,7 +1,7 @@
 ## Hi there, I'm Islam El-sayed 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](islamshawqi525@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/samujjwaal/](https://www.linkedin.com/in/islam-el-sayed-ab9252191/) "Connect on LinkedIn")
+<a href="https://www.linkedin.com/in/islam-el-sayed-ab9252191/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
