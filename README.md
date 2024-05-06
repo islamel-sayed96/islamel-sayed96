@@ -1,6 +1,6 @@
 ## Hi there, I'm Islam El-sayed 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](islamshawqi525@gmail.com "Connect via Email")
+<a href="islamshawqi525@gmail.com"><img src="https://img.shields.io/badge/gmail-%230177B5?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/islam-el-sayed-ab9252191/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 
