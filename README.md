@@ -20,7 +20,7 @@ My current goal is to keep growing and gaining experience as a Full Stack .NET D
 - 🌱 I’m currently learning ASP.NET MVC & WEB API / React js FrameWork 
 - 👯 I’m looking to collaborate on any Full-Stack Dot.Net project which seems interesting or useful
 - 🤔 I’m looking for help with Problem Solving 😭!
-- 💬 Ask me about Ask me about anything, I am happy to help, only if the ball is in my court!
+- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!
 - 😄 Pronouns:he/him or Coder-Man😉
 - ⚡ Fun fact: The Walking Dead ▶️..
 
